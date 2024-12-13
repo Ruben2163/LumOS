@@ -5,4 +5,5 @@ It is a pure (No bloatware), light OS written in rust designed to be as fast as 
 ## Key features
 Custom made rust bootloader, and kernel.
 ## Contibuting 
-Oxygen OS is a huge project with goals unobtianable by one person, so we ask you
+Oxygen OS is a huge project with goals unobtianable by one,
+So we ask you please help use achieve our goal, even if its spell checking to a bootloader, all contributions are appreciated!
