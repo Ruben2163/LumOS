@@ -6,3 +6,5 @@ Custom made rust bootloader, and kernel. We might even add a GUI if we have time
 ## Contibuting 
 Oxygen OS is a huge project with goals unobtianable by one,
 So we ask you please help use achieve our goal, even if its spell checking to even a whole bootloader, all contributions are appreciated!
+## Why help?
+When you help Oxygen OS with issues and further development it will get new versions faster and have more features that you want.
