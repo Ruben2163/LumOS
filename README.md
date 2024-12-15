@@ -1,6 +1,6 @@
 # Oxygen-OS
 ## What is Oxygen OS ## 
-It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key feature.
+It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key features. As well as that it is fully custom and doesnt relate to linux.
 ## Key features
 Custom made rust bootloader, and kernel. We might even add a GUI if we have time but untill then it will only be commandline based.
 ## Contibuting 
