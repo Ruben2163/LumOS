@@ -10,3 +10,5 @@ Oxygen OS is a huge project with goals unobtianable by one,
 So we ask you please help use achieve our goal, even if its spell checking to even a whole bootloader, all contributions are appreciated!
 ### Why help?
 When you help Oxygen OS with issues and further development. We will be able to push new versions faster as well it will include features built by you.
+### Why rust?
+Rust is a fast low level language that is far easier to understand and program than assembly.
