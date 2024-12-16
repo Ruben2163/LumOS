@@ -15,3 +15,5 @@ Rust is a fast low level language that is far easier to understand and program t
 It makes it easier for the community to help us.
 It makes development faster.
 ## Why are we doing this?
+We want to learn rust aswell as system softwares. 
+We want a new style of OS other than the big 3 (Windows, MacOS, Linux)
