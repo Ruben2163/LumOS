@@ -14,3 +14,4 @@ When you help Oxygen OS with issues and further development. We will be able to 
 Rust is a fast low level language that is far easier to understand and program than assembly.
 It makes it easier for the community to help us.
 It makes development faster.
+## Why are we doing this?
