@@ -24,3 +24,4 @@ We want to learn rust aswell as system softwares.
 We want a new style of OS other than the big 3 (Windows, MacOS, Linux).
 ## Who will use this?
 Depending on what the OS will be able to do we would only recomend this to people who just want to try it or are helping develop it.
+## Features
