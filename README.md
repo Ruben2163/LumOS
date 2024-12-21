@@ -9,7 +9,7 @@ Custom made rust bootloader, and kernel. We might even add a GUI if we have time
 ## Warnings!
 Only use as a virtual machine (Virtual Box, Vm Ware)
 We are not securtiy experts and we can also say the same for contributions made by the community.
-
+Please use this operating system at your own risk.
 ## Contibuting:
 Oxygen OS is a huge project with goals unobtianable by one,
 So we ask you please help use achieve our goal, even if its spell checking to even a whole bootloader, all contributions are appreciated!
