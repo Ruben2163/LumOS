@@ -28,3 +28,4 @@ Depending on what the OS will be able to do we would only recomend this to peopl
 | Features      | Added Feature     |
 |---------------|---------------|
 | Bootloader |   :red_check_mark:|
+|Kernel|:red_check_mark:|
