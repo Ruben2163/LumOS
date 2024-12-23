@@ -1,7 +1,7 @@
-# Oxygen-OS
+# LumOS
 Vist our website at:
-    [Oxygen OS](https://ruben2163.github.io/Oxygen/)
-## What is Oxygen OS:
+    [LumOS](https://ruben2163.github.io/luminate/)
+## What is LumOS:
 It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key features. As well as that it is fully custom and doesnt relate to linux.
 ## When will development start?
 We will start the development of the OS in January 2025. When we have learnt how to do it. You could also help us with development before and during this time.
@@ -12,10 +12,10 @@ Only use as a virtual machine (Virtual Box, Vm Ware)
 We are not securtiy experts and we can also say the same for contributions made by the community.
 Please use this operating system at your own risk.
 ## Contibuting:
-Oxygen OS is a huge project with goals unobtianable by one,
+LumOS is a huge project with goals unobtianable by one,
 So we ask you please help use achieve our goal, even if its spell checking to even a whole bootloader, all contributions are appreciated!
 ## Why help?
-When you help Oxygen OS with issues and further development. We will be able to push new versions faster as well it will include features built by you.
+When you help LumOS with issues and further development. We will be able to push new versions faster as well it will include features built by you.
 ## Why Rust?
 Rust is a fast low level language that is far easier to understand and program than assembly.
 It makes it easier for the community to help us.
