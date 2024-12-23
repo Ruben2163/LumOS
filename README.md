@@ -1,5 +1,6 @@
 # Oxygen-OS
-[Oxygen-OS Website](https://ruben2163.github.io/Oxygen/)
+Vist our website at:
+    [Oxygen-OS Website](https://ruben2163.github.io/Oxygen/)
 ## What is Oxygen OS:
 It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key features. As well as that it is fully custom and doesnt relate to linux.
 ## When will development start?
