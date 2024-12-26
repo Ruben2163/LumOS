@@ -1,6 +1,10 @@
 # LumOS
 Vist our website at:
+-
     [LumOS](https://ruben2163.github.io/luminate/)
+-
+or ruben2163.github.io/luminate
+
 ## What is LumOS:
 It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key features. As well as that it is fully custom and doesnt relate to linux.
 ## When will development start?
