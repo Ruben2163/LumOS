@@ -1,7 +1,6 @@
 # LumOS
 Vist our website at:
--
-    [LumOS](https://ruben2163.github.io/luminate/)
+[LumOS](https://ruben2163.github.io/luminate/)
 -
 or ruben2163.github.io/luminate
 
