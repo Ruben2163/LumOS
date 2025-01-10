@@ -8,7 +8,7 @@ Vist our website at:
 It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key features. As well as that it is fully custom and doesnt relate to linux.
 ## When will development start?
 We will start the development of the OS in January 2025. When we have learnt how to do it. You could also help us with development before and during this time.
-## Key features:
+## Key Features:
 Custom made rust bootloader, and kernel. We might even add a GUI if we have time but untill then it will only be commandline based. The basic features will be the same as my other project Terminal-Emulator-Python.
 ## Warnings!
 Only use as a virtual machine (Virtual Box, Vm Ware)
