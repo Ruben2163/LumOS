@@ -1,10 +1,5 @@
 # LumOS
-Vist our website at:
-[LumOS](https://ruben2163.github.io/luminate/)
--
-### ruben2163.github.io/luminate
-
-## What is LumOS:
+l## What is LumOS:
 It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key features. As well as that it is fully custom and doesnt relate to linux.
 ## When will development start?
 We will start the development of the OS in January 2025. When we have learnt how to do it. You could also help us with development before and during this time.
