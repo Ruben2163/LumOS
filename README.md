@@ -1,5 +1,5 @@
 # LumOS
-## What is LumOS idk
+## What is LumOS 
 ## new update comming soon!
 It is a pure (No bloatware), light OS written in rust designed to be as fast as possible while still maintaining key features. As well as that it is fully custom and doesnt relate to linux.
 ## When will development start?
